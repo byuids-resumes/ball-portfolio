@@ -36,19 +36,19 @@ website:
         - text: "---"
         - text: "Project 1"
           file: Projects/project1.qmd
-        - text: "---"
+        - text: "This project analysis the popularity of baby names over the years."
         - text: "Project 2"
           file: Projects/project2.qmd
-        - text: "---"
+        - text: "This project explores airplane delays. It also involves a little data cleaning."
         - text: "Project 3"
           file: Projects/project3.qmd
-        - text: "---"
+        - text: "This project explores trending in baseball. It also uses JSON and sqlite as tool to complete the project."
         - text: "Project 4"
           file: Projects/project4.qmd
-        - text: "---"
+        - text: "This project uses machine learning to predict if a house was built before 1980."
         - text: "Project 5"
           file: Projects/project5.qmd
-        - text: "---"
+        - text: "This project analysis data about star wars fans. It mostly focuses on data cleaning, although it dose involve some machine learning and visualizations."
         #continue the pattern if you need more links
         #copy paste from title and keep it indented to sidebar to add additonal sidebar navigation for other pages
 
