@@ -1,89 +1,72 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Bethany Ball
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Student at Brigham Young University Idaho.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bal23008@byui.edu">Email</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="www.linkedin.com/in/bethany-c-ball">Linkedin</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected 2027`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- 3.8 GPA
 
 
+## Related Experience
 
-## Awards
+### Internships
 
-`2012`
-President, *Royal Society*, London, UK
+`April 2024 - July 2024`
+__Weber State University Lab__, Ogden, UT
 
-Associate, *French Academy of Science*, Paris, France
+- Conducted research on payroll analytics as part of internship responsibilities.
+- Communicated with clients to gather detailed requirements for the project.
+- Developed, adapted, or modified a suitable database schema for efficient storage of payroll data.
+- Established connections between the company's database and the Bureau of Labor Statistics (BLS) database schema.
+- Utilized analytical techniques to calculate the risk of employee turnover attributed to insufficient pay raises.
+
+### Data Science Lead
+
+`January 2024 - March 2024`
+__Data Science Society__, Co-Team Leader
+
+- Developed and implemented an attendance tracking app for multiple societies at BYU-Idaho, optimizing efficiency and accuracy in recording attendance data.
+- Ensured seamless integration of the app with existing systems and workflows at BYU-Idaho, minimizing disruptions and maximizing convenience.
+- Implemented robust data security measures to protect attendee information, ensuring compliance with privacy regulations.
+- Integrated basic analytical tools such as charts into the app, enabling users to visualize attendance trends and make informed decisions.
+
+### Data Science Team member
+
+`September 2023 - December 2023`
+__Data Science Society__, Team member
+
+- Spearheaded the development of an innovative app to track critical data for the local fire department, including equipment repairs, expiration status, and ownership details, enhancing operational efficiency and compliance.
+- Designed and implemented a user-friendly dashboard within the app, enabling seamless storage and retrieval of vital information, empowering fire department personnel to access necessary data with ease.
+- Engineered a robust database structure optimized for efficient data storage and retrieval, ensuring the integrity and accessibility of critical information for the fire department.
+- Provided ongoing support and maintenance for the app and database structure, demonstrating a commitment to long-term partnership and continued success for the fire department.
+
+## Service and Work History
+
+`2022-2024`
+__Computer Secience tutor__, NUAMES
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015-2024`
+__Orchard Volunteer__, Ogden, UT
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
+
