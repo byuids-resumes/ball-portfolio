@@ -1,29 +1,11 @@
 ---
-title: "About Me"
-subtitle: "My Data Science Portfolio"
+title: "about me"
+subtitle: "my data science portfolio"
+# use quarto markdown to 
 ---
 
-# Introduction
+# Title 1 Header
+## Title 2 Header
 
-I am a dedicated student at Brigham Young University - Idaho (BYUI), pursuing a major in Data Science. My passion lies in database management, and I aspire to work in this field upon graduation. Equipped with strong skills in SQL and Python, along with some experience in HTML, R, and Tableau, I am ready to leverage my knowledge to tackle real-world data challenges.
+[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
 
-## Education and Experience
-
-- **Education:** Student at Brigham Young University - Idaho (BYUI), Data Science Major.
-- **Skills:** Proficient in SQL and Python, with familiarity in HTML, R, and Tableau.
-- **Extracurricular Activities:** Actively involved in the Data Science Society at BYUI.
-- **Roles:** Served as a team member and co-project manager within the society.
-- **Projects:** Contributed to various projects independently and collaboratively:
-  - Developed a database management system to track equipment for the local fire department.
-  - Created an application for tracking and generating analytical charts.
-  - Designed an educational math game for elementary school children.
-
-## Portfolio Highlights
-
-- **Database Management System:** Implemented a solution to efficiently manage equipment inventory for the local fire department.
-- **Analytical Application:** Developed an application capable of tracking data and generating insightful charts for analysis.
-- **Educational Game:** Designed an engaging math game aimed at elementary school students to facilitate learning.
-  
-# Conclusion
-
-I am enthusiastic about showcasing my passion for data through my projects and contributions. Eager to embark on new challenges and opportunities, I am prepared to make a meaningful impact in the field of data science.
