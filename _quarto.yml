@@ -19,7 +19,7 @@ website:
     background: primary
     search: true   
     right:
-      - text: "Home"
+      - text: "About Me"
         file: index.qmd
       - text: "DS250 Projects"
         file: projects.qmd
