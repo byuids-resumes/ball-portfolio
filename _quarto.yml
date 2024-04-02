@@ -27,13 +27,13 @@ website:
         file: resume.qmd
       
   sidebar:
-    - title: "DS 250 Projects"
+    - title: "Projects"
       style: "docked"
       background: light
       contents:
         - text: " "
           file: projects.qmd
-        - text: "---"
+        - text: " "
         - text: "Project 1"
           file: Projects/project1.qmd
         - text: "What’s in a name?"
