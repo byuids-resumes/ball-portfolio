@@ -39,10 +39,10 @@ website:
         - text: "What’s in a name?"
         - text: "Project 2"
           file: Projects/project2.qmd
-        - text: "TLate flights and missing data (JSON files)"
+        - text: "Late flights and missing data (JSON files)"
         - text: "Project 3"
           file: Projects/project3.qmd
-        - text: "TFinding relationships in baseball."
+        - text: "Finding relationships in baseball."
         - text: "Project 4"
           file: Projects/project4.qmd
         - text: "Can you predict that?"
