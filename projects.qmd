@@ -1,10 +1,13 @@
 ---
 title: "DS250 Projects"
-subtitle: "Repo for all my Projects"
+#subtitle: "Repo for all my Projects"
 # use quarto markdown to 
 ---
 
-# DS250 Projects
+Throughout my journey in [Class Name], I delved deep into the realm of programming with a focus on data science applications. This course served as a bridge from foundational programming principles to the practical implementation of those concepts within the context of data analysis and prediction. With an emphasis on utilizing existing libraries and tools, I honed my skills in data retrieval, preparation, prediction, and analysis.
+
+Below, you'll find a collection of projects that I've completed during this course, showcasing my proficiency in applying programming techniques to real-world data science challenges. Feel free to explore these projects to get a glimpse of my professional capabilities.
+
 ## Repo for all my Projects
 
 - [Project 1](/Projects/project1.qmd)
